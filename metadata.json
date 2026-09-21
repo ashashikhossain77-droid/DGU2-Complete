@@ -1,0 +1,8 @@
+{
+  "name": "Remix DGU2 IE Daily Control",
+  "description": "Daily control dashboard and industrial engineering cockpit for tracking garment line efficiency, manpower, bottlenecks, and checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
